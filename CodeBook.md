@@ -195,7 +195,7 @@ frequencyDomainBodyAccelerometerJerkStandardDeviationYAxis
 
 frequencyDomainBodyAccelerometerJerkStandardDeviationZAxis    
 
-   Average of Standard Deviation of Frequency of Body Jerk Signal measured along X,Y,Z axis using accelerometer
+    Average of Standard Deviation of Frequency of Body Jerk Signal measured along X,Y,Z axis using accelerometer
    
 frequencyDomainBodyGyroscopeMeanXAxis                         
 
@@ -211,36 +211,36 @@ frequencyDomainBodyGyroscopeStandardDeviationYAxis
 
 frequencyDomainBodyGyroscopeStandardDeviationZAxis   
 
-   Average of Standard Deviation of Frequency of Body Acceleration measured along X,Y,Z axis using gyroscope
+    Average of Standard Deviation of Frequency of Body Acceleration measured along X,Y,Z axis using gyroscope
    
 frequencyDomainBodyAccelerometerMagnitudeMean 
 
-  Average of Mean of Magnitude of Frequency of Body Acceleration measured along X,Y,Z axis using accelerometer
+    Average of Mean of Magnitude of Frequency of Body Acceleration measured along X,Y,Z axis using accelerometer
   
 frequencyDomainBodyAccelerometerMagnitudeStandardDeviation    
 
-   Average of Standard Deviation of Magnitude of Frequency of Body Acceleration measured along X,Y,Z axis using accelerometer
+    Average of Standard Deviation of Magnitude of Frequency of Body Acceleration measured along X,Y,Z axis using accelerometer
    
 frequencyDomainBodyAccelerometerJerkMagnitudeMean         
 
-  Average of Mean of Magnitude of Frequency of Body Jerk Signal measured along X,Y,Z axis using accelerometer
+    Average of Mean of Magnitude of Frequency of Body Jerk Signal measured along X,Y,Z axis using accelerometer
   
 frequencyDomainBodyAccelerometerJerkMagnitudeStandardDeviation
 
-   Average of Standard Deviation of Magnitude of Frequency of Body Jerk Signal measured along X,Y,Z axis using accelerometer
+    Average of Standard Deviation of Magnitude of Frequency of Body Jerk Signal measured along X,Y,Z axis using accelerometer
    
 frequencyDomainBodyGyroscopeMagnitudeMean 
 
-   Average of Mean of Magnitude of Frequency of Body Acceleration measured along X,Y,Z axis using gyroscope
+    Average of Mean of Magnitude of Frequency of Body Acceleration measured along X,Y,Z axis using gyroscope
    
 frequencyDomainBodyGyroscopeMagnitudeStandardDeviation        
 
-   Average of Standard Deviation of Magnitude of Frequency of Body Acceleration measured along X,Y,Z axis using gyroscope
+    Average of Standard Deviation of Magnitude of Frequency of Body Acceleration measured along X,Y,Z axis using gyroscope
    
 frequencyDomainBodyGyroscopeJerkMagnitudeMean                 
 
-   Average of Mean of Magnitude of Frequency of Body Jerk Signal measured along X,Y,Z axis using gyroscope
+    Average of Mean of Magnitude of Frequency of Body Jerk Signal measured along X,Y,Z axis using gyroscope
    
 frequencyDomainBodyGyroscopeJerkMagnitudeStandardDeviation 
 
-  Average of Standard Deviation of Magnitude of Frequency of Body Jerk Signal measured along X,Y,Z axis using gyroscope
+    Average of Standard Deviation of Magnitude of Frequency of Body Jerk Signal measured along X,Y,Z axis using gyroscopes
