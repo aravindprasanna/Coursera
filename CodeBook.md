@@ -37,108 +37,210 @@ The script will perform the following transformations on the data above
 
 ### Details about the tidy data set
 sub
-  Subject
+
+    Subject
+  
 act
-  Activity performed by Subject
+
+    Activity performed by Subject
+  
 timeDomainBodyAccelerometerMeanXAxis
+
 timeDomainBodyAccelerometerMeanYAxis                          
+
 timeDomainBodyAccelerometerMeanZAxis        
-  Average of Mean of Body Acceleration measured along X,Y,Z axis using accelerometer
+
+    Average of Mean of Body Acceleration measured along X,Y,Z axis using accelerometer
+    
 timeDomainBodyAccelerometerStandardDeviationXAxis
+
 timeDomainBodyAccelerometerStandardDeviationYAxis             
+
 timeDomainBodyAccelerometerStandardDeviationZAxis             
-  Average of Standard Deviation of Body Acceleration measured along X,Y,Z axis using accelerometer
+
+    Average of Standard Deviation of Body Acceleration measured along X,Y,Z axis using accelerometer
+    
 timeDomainGravityAccelerometerMeanXAxis                        
+
 timeDomainGravityAccelerometerMeanYAxis                       
+
 timeDomainGravityAccelerometerMeanZAxis        
-  Average of Mean of Gravity Acceleration measured along X,Y,Z axis using accelerometer
+
+    Average of Mean of Gravity Acceleration measured along X,Y,Z axis using accelerometer
+    
 timeDomainGravityAccelerometerStandardDeviationXAxis
+
 timeDomainGravityAccelerometerStandardDeviationYAxis          
+
 timeDomainGravityAccelerometerStandardDeviationZAxis         
-  Average of Standard Deviation of Gravity Acceleration measured along X,Y,Z axis using accelerometer
-timeDomainBodyAccelerometerJerkMeanXAxis                     r
+
+    Average of Standard Deviation of Gravity Acceleration measured along X,Y,Z axis using accelerometer
+    
+timeDomainBodyAccelerometerJerkMeanXAxis                     
+
 timeDomainBodyAccelerometerJerkMeanYAxis                      
+
 timeDomainBodyAccelerometerJerkMeanZAxis
-  Average of Mean of Body Jerk Signal measured along X,Y,Z axis using accelerometer
+
+    Average of Mean of Body Jerk Signal measured along X,Y,Z axis using accelerometer
+    
 timeDomainBodyAccelerometerJerkStandardDeviationXAxis         
+
 timeDomainBodyAccelerometerJerkStandardDeviationYAxis         
+
 timeDomainBodyAccelerometerJerkStandardDeviationZAxis         
-   Average of Standard Deviation of Body Jerk Signal measured along X,Y,Z axis using accelerometer
+
+    Average of Standard Deviation of Body Jerk Signal measured along X,Y,Z axis using accelerometer
+    
 timeDomainBodyGyroscopeMeanXAxis                              
+
 timeDomainBodyGyroscopeMeanYAxis                              
+
 timeDomainBodyGyroscopeMeanZAxis
-  Average of Mean of Body Acceleration measured along X,Y,Z axis using gyroscope
+
+    Average of Mean of Body Acceleration measured along X,Y,Z axis using gyroscope
+    
 timeDomainBodyGyroscopeStandardDeviationXAxis                 
+
 timeDomainBodyGyroscopeStandardDeviationYAxis                 
+
 timeDomainBodyGyroscopeStandardDeviationZAxis                 
-  Average of Standard Deviation of Body Acceleration measured along X,Y,Z axis using gyroscope
+
+      Average of Standard Deviation of Body Acceleration measured along X,Y,Z axis using gyroscope
+    
 timeDomainBodyGyroscopeJerkMeanXAxis                          
+
 timeDomainBodyGyroscopeJerkMeanYAxis                          
+
 timeDomainBodyGyroscopeJerkMeanZAxis
-    Average of Mean of Body Jerk Signal measured along X,Y,Z axis using gyroscope
+
+      Average of Mean of Body Jerk Signal measured along X,Y,Z axis using gyroscope
+      
 timeDomainBodyGyroscopeJerkStandardDeviationXAxis             
+
 timeDomainBodyGyroscopeJerkStandardDeviationYAxis             
+
 timeDomainBodyGyroscopeJerkStandardDeviationZAxis             
-    Average of Standard Deviation of Body Jerk Signal measured along X,Y,Z axis using gyroscope
+
+      Average of Standard Deviation of Body Jerk Signal measured along X,Y,Z axis using gyroscope
+      
 timeDomainBodyAccelerometerMagnitudeMean             
-    Average of Mean of Signal Magnitude of Body Acceleration measured along X,Y,Z axis using accelerometer
+
+      Average of Mean of Signal Magnitude of Body Acceleration measured along X,Y,Z axis using accelerometer
+      
 timeDomainBodyAccelerometerMagnitudeStandardDeviation         
-    Average of Standard Deviation of Signal Magnitude of Body Acceleration measured along X,Y,Z axis using accelerometer
+
+      Average of Standard Deviation of Signal Magnitude of Body Acceleration measured along X,Y,Z axis using accelerometer
+      
 timeDomainGravityAccelerometerMagnitudeMean
-    Average of Mean of Signal Magnitude of Gravity Acceleration measured along X,Y,Z axis using accelerometer
+
+      Average of Mean of Signal Magnitude of Gravity Acceleration measured
+      along X,Y,Z axis using accelerometer
+      
 timeDomainGravityAccelerometerMagnitudeStandardDeviation
-  Average of Standard Deviation of Signal Magnitude of Gravity Acceleration measured along X,Y,Z axis using accelerometer
+
+      Average of Standard Deviation of Signal Magnitude of Gravity Acceleration measured along X,Y,Z axis using accelerometer
+  
 timeDomainBodyAccelerometerJerkMagnitudeMean  
-   Average of Mean of Signal Magnitude of Body Jerk Signal measured along X,Y,Z axis using accelerometer
+
+      Average of Mean of Signal Magnitude of Body Jerk Signal measured along X,Y,Z axis using accelerometer
+   
 timeDomainBodyAccelerometerJerkMagnitudeStandardDeviation     
-     Average of Standard Deviation of Signal Magnitude of Body Jerk Signal measured along X,Y,Z axis using accelerometer
+
+      Average of Standard Deviation of Signal Magnitude of Body Jerk Signal measured along X,Y,Z axis using accelerometer
+      
 timeDomainBodyGyroscopeMagnitudeMean
-    Average of Mean of Signal Magnitude of Body Acceleration measured along X,Y,Z axis using gyroscope
+
+      Average of Mean of Signal Magnitude of Body Acceleration measured along X,Y,Z axis using gyroscope
+      
 timeDomainBodyGyroscopeMagnitudeStandardDeviation 
-    Average of Standard Deviation of Signal Magnitude of Body Acceleration measured along X,Y,Z axis using gyroscope
+
+      Average of Standard Deviation of Signal Magnitude of Body Acceleration measured along X,Y,Z axis using gyroscope
+      
 timeDomainBodyGyroscopeJerkMagnitudeMean
-    Average of Mean of Signal Magnitude of Body Jerk Signal measured along X,Y,Z axis using gyroscope
+
+      Average of Mean of Signal Magnitude of Body Jerk Signal measured along X,Y,Z axis using gyroscope
+      
 timeDomainBodyGyroscopeJerkMagnitudeStandardDeviation      
-    Average of Standard Deviation of Signal Magnitude of Body Acceleration measured along X,Y,Z axis using gyroscope
+
+      Average of Standard Deviation of Signal Magnitude of Body Acceleration measured along X,Y,Z axis using gyroscope
+      
 frequencyDomainBodyAccelerometerMeanXAxis                     
+
 frequencyDomainBodyAccelerometerMeanYAxis                     
+
 frequencyDomainBodyAccelerometerMeanZAxis
-  Average of Mean of Frequency of Body Acceleration measured along X,Y,Z axis using accelerometer
+
+    Average of Mean of Frequency of Body Acceleration measured along X,Y,Z axis using accelerometer
+    
 frequencyDomainBodyAccelerometerStandardDeviationXAxis        
+
 frequencyDomainBodyAccelerometerStandardDeviationYAxis        
+
 frequencyDomainBodyAccelerometerStandardDeviationZAxis
+
     Average of Standard Deviation of Frequency of Body Acceleration measured along X,Y,Z axis using accelerometer
+    
 frequencyDomainBodyAccelerometerJerkMeanXAxis                 
+
 frequencyDomainBodyAccelerometerJerkMeanYAxis                 
+
 frequencyDomainBodyAccelerometerJerkMeanZAxis
+
     Average of Mean of Frequency of Body Jerk Signal measured along X,Y,Z axis using accelerometer
+    
 frequencyDomainBodyAccelerometerJerkStandardDeviationXAxis    
+
 frequencyDomainBodyAccelerometerJerkStandardDeviationYAxis    
+
 frequencyDomainBodyAccelerometerJerkStandardDeviationZAxis    
+
    Average of Standard Deviation of Frequency of Body Jerk Signal measured along X,Y,Z axis using accelerometer
+   
 frequencyDomainBodyGyroscopeMeanXAxis                         
+
 frequencyDomainBodyGyroscopeMeanYAxis                         
+
 frequencyDomainBodyGyroscopeMeanZAxis
+
     Average of Mean of Frequency of Body Acceleration measured along X,Y,Z axis using gyroscope
+    
 frequencyDomainBodyGyroscopeStandardDeviationXAxis            
+
 frequencyDomainBodyGyroscopeStandardDeviationYAxis            
+
 frequencyDomainBodyGyroscopeStandardDeviationZAxis   
+
    Average of Standard Deviation of Frequency of Body Acceleration measured along X,Y,Z axis using gyroscope
+   
 frequencyDomainBodyAccelerometerMagnitudeMean 
+
   Average of Mean of Magnitude of Frequency of Body Acceleration measured along X,Y,Z axis using accelerometer
+  
 frequencyDomainBodyAccelerometerMagnitudeStandardDeviation    
+
    Average of Standard Deviation of Magnitude of Frequency of Body Acceleration measured along X,Y,Z axis using accelerometer
+   
 frequencyDomainBodyAccelerometerJerkMagnitudeMean         
+
   Average of Mean of Magnitude of Frequency of Body Jerk Signal measured along X,Y,Z axis using accelerometer
+  
 frequencyDomainBodyAccelerometerJerkMagnitudeStandardDeviation
+
    Average of Standard Deviation of Magnitude of Frequency of Body Jerk Signal measured along X,Y,Z axis using accelerometer
+   
 frequencyDomainBodyGyroscopeMagnitudeMean 
+
    Average of Mean of Magnitude of Frequency of Body Acceleration measured along X,Y,Z axis using gyroscope
+   
 frequencyDomainBodyGyroscopeMagnitudeStandardDeviation        
+
    Average of Standard Deviation of Magnitude of Frequency of Body Acceleration measured along X,Y,Z axis using gyroscope
+   
 frequencyDomainBodyGyroscopeJerkMagnitudeMean                 
+
    Average of Mean of Magnitude of Frequency of Body Jerk Signal measured along X,Y,Z axis using gyroscope
+   
 frequencyDomainBodyGyroscopeJerkMagnitudeStandardDeviation 
+
   Average of Standard Deviation of Magnitude of Frequency of Body Jerk Signal measured along X,Y,Z axis using gyroscope
-  
-  
